@@ -10,6 +10,8 @@ public class Operacion {
     private float numero1;
     
     private float numero2;
+    
+    private float num3;
 
     
     ///Constructores
